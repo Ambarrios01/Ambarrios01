@@ -1,21 +1,31 @@
 <h1 align="center">Andrés Barrios</h1>
 
-###
+<h3 align="center">👨‍💻 About Me</h3>
 
-<h3 align="center">👩‍💻  About Me</h3>
+<p align="left">
+Estudiante de Ingeniería de Sistemas en último semestre, con interés en desarrollo de software y aplicaciones web y móviles. 
+Experiencia académica en la construcción de sistemas con manejo de bases de datos, control de roles y lógica de negocio. 
+Buscando realizar práctica empresarial donde pueda aportar soluciones tecnológicas y fortalecer mis habilidades profesionales.
+</p>
 
-###
-
-<p align="left">Estudiante de Ingeniería de Sistemas en último semestre, con interés en desarrollo de software y aplicaciones web y móviles. Experiencia académica en la construcción de sistemas con manejo de bases de datos, control de roles y lógica de negocio. Me caracterizo por mi pensamiento lógico, capacidad de aprendizaje y compromiso, buscando realizar práctica empresarial donde pueda aportar soluciones tecnológicas y fortalecer mis habilidades profesionales.</p>
-
-###
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/andresbarriossalas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:ambarrios435@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+
+  <a href="https://wa.me/573188758695" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a>
+
+  <a href="https://github.com/Ambarrios01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo" />
+  </a>
 </div>
 
 ###
